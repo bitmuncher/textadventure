@@ -65,6 +65,7 @@ def main(argv):
 		# check if the user selected an exit
 		if usr_input in adv[room]['exits']:
 			room = adv[room]['exits'][usr_input]
+			continue
 
 		# zerteile die User-Eingabe bei den Freizeichen und speichere eine Liste
 		usr_input_arr = usr_input.lower().split(' ')
