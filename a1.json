@@ -7,6 +7,22 @@
 		"lol": "Du lachst laut auf.",
 		"herz": "Du schickst dem Universum ein Herz... Pew Pew Pew!"
 	},
+
+	"objects": {
+		"busch": "Dies ist der flauschigste Busch, den du je gesehen hast. Ganz weich und fluffelflauschig sind seine Blätter.",
+		"blätter": "Das sind die flauschigsten Blätter der Welt!"
+	},
+	"portables": {
+		"flauscheball": {
+			"name": "ein Flauscheball", 
+			"description": "Dies ist ein fluffelflauschiger Flauschball. Er ist mega flauschelig.\nDu kannst ihn werfen.",
+			"actions": {
+				"action": "wirf",
+				"effect": "disappear",
+				"effect_message": "Du wirfst den Flauscheball in die Luft woraufhin er sich in einem Kuschelwölkchen auflöst."
+			}
+		}
+	},
 	
 	"Flauschinest": { 
 		"description": "Dies ist das Flauschinest. Hier steht ein Busch. Ein Weg führt nach Norden.",
@@ -29,23 +45,6 @@
 			"s": "Sommerwiese"
 		},
 		"objects": []
-	},
-
-
-	"objects": {
-		"busch": "Dies ist der flauschigste Busch, den du je gesehen hast. Ganz weich und fluffelflauschig sind seine Blätter.",
-		"blätter": "Das sind die flauschigsten Blätter der Welt!"
-	},
-	"portables": {
-		"flauscheball": {
-			"name": "ein Flauscheball", 
-			"description": "Dies ist ein fluffelflauschiger Flauschball. Er ist mega flauschelig.\nDu kannst ihn werfen.",
-			"actions": {
-				"action": "wirf",
-				"effect": "disapear",
-				"effect_message": "Du wirfst den Flauscheball in die Luft woraufhin er sich in einem Kuschelwölkchen auflöst."
-			}
-		}
 	},
 
 	"inventory": []
