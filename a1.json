@@ -15,7 +15,7 @@
 	"portables": {
 		"flauscheball": {
 			"name": "ein Flauscheball", 
-			"description": "Dies ist ein fluffelflauschiger Flauschball. Er ist mega flauschelig.\nDu kannst ihn werfen.",
+			"description": "Dies ist ein fluffelflauschiger Flauscheball. Er ist mega flauschelig.\nDu kannst ihn werfen.",
 			"actions": {
 				"action": "wirf",
 				"effect": "disappear",
