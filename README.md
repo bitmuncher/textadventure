@@ -1,2 +1,2 @@
 # textadventure
-A little tool to run text adventure games from JSON files, which describe the adventures 
+A little tool to run text adventure games from a JSON file that describe the adventure
